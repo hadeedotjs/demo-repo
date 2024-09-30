@@ -1,0 +1,1 @@
+console.log("i wish i was fluent in js, not in any love language")
